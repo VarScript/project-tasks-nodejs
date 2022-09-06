@@ -16,7 +16,7 @@ This is an console interface for create, read, actualizate and delete tasks.
 
 > Delete task
 
-![](https://i.imgur.com/t8lr3Ts.png)
+![](https://i.imgur.com/H1gyWH8.png)
 
 
 
