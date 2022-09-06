@@ -22,7 +22,6 @@ This is an console interface for create, read, actualizate and delete tasks.
 
 ## Install
                 
-----
 
 > [Fork](https://docs.github.com/es/get-started/quickstart/fork-a-repo) to this repository
 
